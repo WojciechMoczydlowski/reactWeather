@@ -1,0 +1,1 @@
+export const otherTowns = ['Warszawa','Krakow','Łódź','Wrocław','Poznań','Gdańsk','Szczecin','Bydgoszcz','Lublin','Katowice'];
